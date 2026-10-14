@@ -1,5 +1,8 @@
 # PollinationsMC
 
+[![Made with pollinations.ai](https://raw.githubusercontent.com/pollinations/pollinations/main/packages/ui/src/brand/badge-made-with.svg)](https://pollinations.ai/?ref=badge)
+
+
 **Pollinations plugin for Minecraft servers** — built for [Pollinations QUEST #17246](https://github.com/pollinations/pollinations/issues/17246) (10 Pollen reward)
 
 Bring [Pollinations AI](https://pollinations.ai) to your Paper server: players chat with AI models and generate AI images that render onto in-game map items, using any model from the live [Pollinations catalog](https://gen.pollinations.ai/v1/models). The server owner's API key pays with their own Pollen.
