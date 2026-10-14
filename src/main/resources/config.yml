@@ -1,0 +1,12 @@
+# PollinationsMC configuration
+# Get your API key at https://enter.pollinations.ai/keys (starts with sk_...)
+# Each generation spends Pollen from your account balance.
+
+api-key: ""
+
+# Models (see https://gen.pollinations.ai/v1/models for the live list)
+text-model: "openai/gpt-5.4-nano"
+image-model: "black-forest-labs/flux.1-schnell"
+
+# API base URL (rarely needs changing)
+base-url: "https://gen.pollinations.ai"
